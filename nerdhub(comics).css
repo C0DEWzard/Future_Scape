@@ -1,0 +1,134 @@
+    
+            body, html {
+                height:100%;
+                margin:0;
+                padding:0;
+                }
+            
+                #header {
+                  height:110px;
+                  overflow:auto;
+                  background:rgb(28, 32, 38);
+                  
+                }
+                
+                h1 {
+                  
+                  font-size:50px;
+                  font-family: 'Gugi', cursive;
+                  color:rgb(31, 62, 112);
+                  position:absolute;
+                  left:42%;
+                   
+                }
+            
+                #scifi {
+                  position:absolute;
+                  top:0.1%;
+                  width:100px;
+                  
+                }
+                
+                #fantasy {
+                 position:absolute;
+                 top:0.1%;
+                 left:20%;
+                }
+                
+                #tabletop {
+                  position:absolute;
+                  top:0.1%;
+                  left:65%;
+                }
+                
+                #comics {
+                position:absolute;        
+                top:0.1%;
+                  left:85%;
+                }
+                
+                
+                
+                
+                
+                @media screen and (max-width:1000px) {
+              
+              }
+                
+                    .button {       
+                  background-color:rgb(31, 62, 112); 
+                  border: none;
+                  color: white;
+                  text-decoration: none;
+                  display: inline-block;
+                  -webkit-transition-duration: 0.4s; /* Safari */
+                  transition-duration: 0.2s;
+                  cursor: pointer;
+                }
+                
+                #button1 {
+                  font-family: 'Gugi', cursive;
+                  color:rgb(31, 62, 112);
+                  font-size:50px;
+                  width:155px;
+                  background-color:rgb(255, 255, 255);
+                  border:none;
+                  border-radius:8px;
+                }
+                
+                #button1:hover {
+                  background-color:rgb(31, 62, 112);
+                  color:rgb(255,255,255);
+                }
+                
+                #button2 {
+                  font-family: 'Gugi', cursive;
+                  color:rgb(31, 62, 112);
+                  font-size:50px;
+                  width:210px;
+                  background-color:rgb(255, 255, 255);
+                  border:none;
+                  border-radius:8px;
+                }
+                
+                #button2:hover {
+                  background-color:rgb(31, 62, 112);
+                  color:rgb(255,255,255);
+                }
+                
+                #button3 {
+                  font-family: 'Gugi', cursive;
+                  color:rgb(31, 62, 112);
+                  font-size:50px;
+                  width:225px;
+                  background-color:rgb(255, 255, 255);
+                  border:none;
+                  border-radius:8px;
+                }
+                
+                #button3:hover {
+                  background-color:rgb(31, 62, 112);
+                  color:rgb(255,255,255);
+                }
+                
+                #button4 {
+                  font-family: 'Gugi', cursive;
+                  color:rgb(31, 62, 112);
+                  font-size:50px;
+                  width:200px;
+                  background-color:rgb(255, 255, 255);
+                  border:none;
+                  border-radius:8px;
+                }
+                
+                #button4:hover {
+                  background-color:rgb(31, 62, 112);
+                  color:rgb(255,255,255);
+                }
+                #webtoon-caption {
+                
+                }
+                
+                #webtoon-link {
+                
+                }
