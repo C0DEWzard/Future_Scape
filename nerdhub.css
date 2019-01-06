@@ -51,6 +51,7 @@ body, html {
     left:85%;
   }
 
+
 .button {       
     background-color:rgb(31, 62, 112); 
     border: none;
@@ -114,6 +115,7 @@ body, html {
     color:rgb(255,255,255);
   }
 
+
   #Eva {
     position:absolute;
     top:40%;
@@ -133,6 +135,33 @@ body, html {
     font-family: 'Poppins', sans-serif;
     font-size:19.5px;
     }
+
+
+    #discord-link {
+      position:absolute;
+      top:85%;
+      left:70%;
+      color:rgb(67, 73, 84);
+      font-size:20px;
+      font-family: 'Poppins', sans-serif;
+      }
+      a:link {
+      color:rgb(67, 73, 84);
+      text-decoration:none;
+      }
+        a:visited {
+      color:rgb(67, 73, 84);
+      }
+      a:hover {
+      color:rgb(28, 32, 38);
+      }
+  
+      iframe {
+      position:absolute;
+      top:20% ;    
+      left:70%;
+      }
+
 
   #avatar {
     position:absolute;
@@ -178,11 +207,6 @@ body, html {
     top:176%;
     left:83%;  
     }
-   #blackbackground {
-    position:fixed;
-     top:139%;
-      left:80%;
-    }
    #avatarfive {
     position:absolute;
     top:139%;
@@ -194,29 +218,3 @@ body, html {
     top:176%;
     left:62%;  
     }
-
-    #discord-link {
-    position:absolute;
-    top:85%;
-    left:70%;
-    color:rgb(67, 73, 84);
-    font-size:20px;
-    font-family: 'Poppins', sans-serif;
-    }
-    a:link {
-    color:rgb(67, 73, 84);
-    text-decoration:none;
-    }
-      a:visited {
-    color:rgb(67, 73, 84);
-    }
-    a:hover {
-    color:rgb(28, 32, 38);
-    }
-
-    iframe {
-    position:absolute;
-    top:20% ;    
-    left:70%;
-    }
-    
