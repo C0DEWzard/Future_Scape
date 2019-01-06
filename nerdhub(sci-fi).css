@@ -1,0 +1,137 @@
+   
+            body, html {
+                height:110%;
+                margin:0;
+                padding:0;
+                background-image:url("https://lh3.googleusercontent.com/S-qSCGaKy4NTaOyNdtuEYACak76zVcMFVkGeejOa9RN8SIQOPrl4khcCLMl4Tn5SaxbvGqXyPB-RXC_QFAQSuji4AbwkXLRTya1w-bkw9ba_erMkWaeZBvaW59vqjTEIKA8I1-bD1aYcn8kuyU6fHiPSxA3iNZVwrSk0g9L_zZshQ_dMDtdtC4zuv6d6cyJy7HkNVqwHH-0ITl5-LLwGX3L_UUDgl8on_lD3FCvrKAK2gQeXcw0ko4lLQrut3F9A8n_bJNNzvLvqqWe9_LkpLpKfBqrHw5lP3ajSpNScbiKUxHkM4rzmQbGGaPmZCTcw8CNrGrPowGIn-74SCAJ8XUzgMF2JdDinGTzTricIO_Q7nCebkH-kDJhSiyfi-ODGOM1wFAHyeEA2lP93_U5myrxikXSNEBqCxUUHrOSUwHFAlcDySIb9AeEt0IriY9DoZ2Rw-pMAegiHr6gxjJlYA1-Ri5qor1VApcUIeswg_vFZiTk_xhqHgvhHWnwBIWf5OJvn2h3MPtFcfjakx8kbWdmuYR7P6FYEDv8PsSnIUHwCQFwAt0Zmit7-hKCNzd5Usssr-iJrj7TD5KMr5cOyuO7qTi5S3H8MA1HgzgN5kHgdXC-DSvPttNDL9ukfXQH0TZl0CLYCi1uQFPLaPdkWNusI=w1509-h943-no");
+                 
+                 
+                
+                @media screen and (max-width:1000px) {
+              
+              }
+                
+                }
+            
+                 #header {
+                          height:110px;
+                          overflow:auto;
+                          background:rgb(28, 32, 38);
+          
+                        }
+          
+                        #container {
+                          background-image: url("https://i.imgur.com/Qotd9S5.jpg");
+                          height:170%;
+                          background-position:center;
+                          background-repeat:no-repeat;
+                          background-size:cover;
+                          min-height:100vh;
+                        }
+          
+                        h1 {
+          
+                          font-size:50px;
+                          font-family: 'Gugi', cursive;
+                          color:rgb(31, 62, 112);
+                          position:absolute;
+                          left:42%;
+                        }
+                        #scifi {
+                          position:absolute;
+                          top:0.1%;
+                          width:100px;
+          
+                        }
+                        #fantasy {
+                         position:absolute;
+                         top:0.1%;
+                         left:20%;
+                        }
+                        #tabletop {
+                          position:absolute;
+                          top:0.1%;
+                          left:65%;
+                        }
+                        #comics {
+                        position:absolute;        
+                        top:0.1%;
+                          left:85%;
+                        }
+          
+                      .button {       
+                          background-color:rgb(31, 62, 112); 
+                          border: none;
+                          color: white;
+                          text-decoration: none;
+                          display: inline-block;
+                          -webkit-transition-duration: 0.4s; /* Safari */
+                          transition-duration: 0.2s;
+                          cursor: pointer;
+                        }
+                        #button1 {
+                          font-family: 'Gugi', cursive;
+                          color:rgb(31, 62, 112);
+                          font-size:50px;
+                          width:155px;
+                          background-color:rgb(255, 255, 255);
+                          border:none;
+                          border-radius:8px;
+                        }
+                        #button1:hover {
+                          background-color:rgb(31, 62, 112);
+                          color:rgb(255,255,255);
+                        }
+                        #button2 {
+                          font-family: 'Gugi', cursive;
+                          color:rgb(31, 62, 112);
+                          font-size:50px;
+                          width:210px;
+                          background-color:rgb(255, 255, 255);
+                          border:none;
+                          border-radius:8px;
+                        }
+                        #button2:hover {
+                          background-color:rgb(31, 62, 112);
+                          color:rgb(255,255,255);
+                        }
+                        #button3 {
+                          font-family: 'Gugi', cursive;
+                          color:rgb(31, 62, 112);
+                          font-size:50px;
+                          width:225px;
+                          background-color:rgb(255, 255, 255);
+                          border:none;
+                          border-radius:8px;
+                        }
+                        #button3:hover {
+                          background-color:rgb(31, 62, 112);
+                          color:rgb(255,255,255);
+                        }
+                        #button4 {
+                          font-family: 'Gugi', cursive;
+                          color:rgb(31, 62, 112);
+                          font-size:50px;
+                          width:200px;
+                          background-color:rgb(255, 255, 255);
+                          border:none;
+                          border-radius:8px;
+                        }
+                        #button4:hover {
+                          background-color:rgb(31, 62, 112);
+                          color:rgb(255,255,255);
+                        }
+                
+                h2 {
+                  font-family: 'Josefin Sans', sans-serif;
+                  color:white;
+                  font-size:40px;
+                  position:absolute;
+                  top:50%;
+                  left:25%;
+                  border-style:solid;
+                  border-width:2px;
+                  border-spacing:40px 70px;
+                  padding:20px;
+                  
+                }
