@@ -14,7 +14,7 @@ body, html {
 
   #container {
     background-image: url("https://i.imgur.com/Qotd9S5.jpg");
-    height:170%;
+    height:172%;
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
@@ -171,7 +171,7 @@ body, html {
   #nametag {
     font-family: 'Poppins', sans-serif;
     position:absolute;
-    top:176%;
+    top:178%;
     left:2.25%;  
     }  
   #avatartwo {
@@ -182,7 +182,7 @@ body, html {
   #nametagtwo {
     font-family: 'Poppins', sans-serif;
     position:absolute;
-    top:176%;
+    top:178%;
     left:22.5%;  
     }
   #avatarthree {
@@ -193,7 +193,7 @@ body, html {
   #nametagthree {
     font-family: 'Poppins', sans-serif;
     position:absolute;
-    top:176%;
+    top:178%;
     left:43%;  
     }
   #avatarfour {
@@ -204,7 +204,7 @@ body, html {
    #nametagfour {
     font-family: 'Poppins', sans-serif;
     position:absolute;
-    top:176%;
+    top:178%;
     left:83%;  
     }
    #avatarfive {
@@ -215,6 +215,6 @@ body, html {
    #nametagfive {
     font-family: 'Poppins', sans-serif;
     position:absolute;
-    top:176%;
+    top:178%;
     left:62%;  
     }
