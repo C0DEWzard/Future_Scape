@@ -57,7 +57,7 @@ body, html {
     color: white;
     text-decoration: none;
     display: inline-block;
-    -webkit-transition-duration: 0.4s; /* Safari */
+    -webkit-transition-duration: 0.4s;
     transition-duration: 0.2s;
     cursor: pointer;
   }
